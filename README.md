@@ -1,3 +1,4 @@
+# Name: Kareem Magdy Sabry
 # Play Dice
 
 A Flutter app that rolls two dice. If the total is 10 or more, it shows a happy image and "You Win". Otherwise it shows a sad image and "You Lose".
