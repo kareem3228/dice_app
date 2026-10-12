@@ -10,6 +10,9 @@ A Flutter app that rolls two dice. If the total is 10 or more, it shows a happy 
 
 ## Run
 
-    flutter create .
     flutter pub get
     flutter run
+    
+## Screenshot
+
+![screenshot](screenshot.png)
